@@ -1,0 +1,31 @@
+# Table of contents
+
+* [GovStack Architecture](README.md)
+* [1 Version History](1-version-history.md)
+* [2 Common Terminology](2-common-terminology.md)
+* [3 Principles](3-principles.md)
+* [4 Interoperability Architecture](4-interoperability-architecture/README.md)
+  * [4.1 GovStack Interoperability](4-interoperability-architecture/4.1-govstack-interoperability.md)
+  * [4.2 Functionality Design](4-interoperability-architecture/4.2-functionality-design.md)
+  * [4.3 Architecture Patterns](4-interoperability-architecture/4.3-architecture-patterns.md)
+  * [4.4 Architecture Scope](4-interoperability-architecture/4.4-architecture-scope.md)
+  * [4.5 Building Block Approach](4-interoperability-architecture/4.5-building-block-approach.md)
+* [5 Specification Framework](5-specification-framework/README.md)
+  * [5.1 Specification Scope](5-specification-framework/5.1-specification-scope.md)
+  * [5.2 Specification Model](5-specification-framework/5.2-specification-model.md)
+  * [5.3 Requirements Model](5-specification-framework/5.3-requirements-model.md)
+  * [5.4 Specification Template](5-specification-framework/5.4-specification-template.md)
+  * [5.5 Specification Use](5-specification-framework/5.5-specification-use.md)
+* [6 Cross-Functional Requirements](6-cross-functional-requirements/README.md)
+  * [6.1 Development](6-cross-functional-requirements/6.1-development.md)
+  * [6.2 Deployment](6-cross-functional-requirements/6.2-deployment.md)
+  * [6.3 Architecture](6-cross-functional-requirements/6.3-architecture.md)
+  * [6.4 Quality](6-cross-functional-requirements/6.4-quality.md)
+  * [6.5 Security](6-cross-functional-requirements/6.5-security.md)
+  * [6.6 Data](6-cross-functional-requirements/6.6-data.md)
+
+## Architecture Guides
+
+* [AI Readiness](https://specs.govstack.global/ai-readiness)
+* [Security](https://specs.govstack.global/security)
+* [UX Switching and Handover](https://specs.govstack.global/ux-switching-and-handover)
