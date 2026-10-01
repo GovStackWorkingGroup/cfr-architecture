@@ -1,15 +1,10 @@
 ---
+title: GovStack Interoperability
 description: >-
   Describes three cumulative maturity states of technical interoperability -
   protocol, cross-functional and whole-of-government - and maps where GovStack
   specifications apply at each level.
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/dU03bcgqfvodP4msaMaL/4-interoperability-architecture/4.1-govstack-interoperability
 ---
-
-# 4.1 GovStack Interoperability
 
 GovStack primarily focuses on the technical interoperability of digital government architecture. A useful article covering this further is available at [https://govstack.global/news/achieving-technical-interoperability-in-government-systems-from-protocol-to-whole-of-government/](https://govstack.global/news/achieving-technical-interoperability-in-government-systems-from-protocol-to-whole-of-government/) - but it is summarized here for GovStack interoperability architecture context.
 
@@ -17,7 +12,7 @@ GovStack primarily focuses on the technical interoperability of digital governme
 
 #### **4.1.1 Maturity States of Technical Interoperability**
 
-<figure><img src="../.gitbook/assets/interoperability-states.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="/assets/interoperability-states.png" alt="" width="563"><figcaption></figcaption></figure>
 
 Interoperability is not binary. Different systems within the same government will sit at different points on the spectrum. GovStack defines three cumulative maturity states that help governments assess where they are and what is needed to reach the next level.
 

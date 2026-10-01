@@ -3,13 +3,8 @@ description: >-
   Defines the three layers of architecture that GovStack distinguishes and
   clarifies where this specification applies and where to look for broader
   governance guidance.
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/dU03bcgqfvodP4msaMaL/4-interoperability-architecture/4.3-architecture-scope
+title: Architecture Scope
 ---
-
-# 4.4 Architecture Scope
 
 The GovStack Architecture Specification with its Principles and Cross-Functional Requirements are applicable to what is commonly referred to as system and component architecture to support digital government interoperability. GovStack differentiates between:
 

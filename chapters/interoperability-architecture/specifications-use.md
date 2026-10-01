@@ -1,15 +1,10 @@
 ---
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/dU03bcgqfvodP4msaMaL/5-specification-framework/5.4-specification-use
+title: Specification Use
 ---
-
-# 5.5 Specification Use
 
 GovStack specifications are designed to be adopted in different ways depending on the maturity and ownership of the software involved.
 
-<figure><img src="../.gitbook/assets/specuse.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="/assets/specuse.jpg" alt=""><figcaption></figcaption></figure>
 
 #### 5.5.1 By Governments for Sustainable Digital Transformations
 

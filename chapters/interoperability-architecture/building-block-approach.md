@@ -1,11 +1,6 @@
 ---
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/dU03bcgqfvodP4msaMaL/4-interoperability-architecture/4.4-building-block-approach
+title: Building Block Approach 
 ---
-
-# 4.5 Building Block Approach
 
 GovStack aims to provide a reference architecture for digital governance software to support sustainable development goals. Rooted in a "Whole-of-Government" approach, the GovStack Framework provides a methodology for leveraging common technology components ("Building Blocks") and infrastructure to more easily create and deploy interoperable digital platforms which can address high-priority use cases across multiple sectors. The guidelines and requirements described  provide a framework for the development of digital building blocks oriented toward this goal.
 
@@ -56,7 +51,7 @@ Current foundational building blocks:
 
 Building blocks are software modules that can be deployed and combined in a standardized manner. Each building block is capable of working independently, but they can be combined to do much more:
 
-<figure><img src="../.gitbook/assets/31.-A-common-reusable-stack-of-Building-Blocks_2 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="/assets/31.-A-common-reusable-stack-of-Building-Blocks_2 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 Building blocks are composable, interoperable software modules that can be used across a variety of use cases. They are standards-based, open source and designed for scale.
 
@@ -82,7 +77,7 @@ A building block is only so useful on its own. In practice, building blocks must
 
 The following diagram illustrates the data exchange interoperability based on the mature digital government ecosystem example of Estonia (pattern of _Semi-Decentralized Service Oriented Architecture_), transferred to GovStack context:
 
-<figure><img src="../.gitbook/assets/X-Road model.png" alt=""><figcaption><p>Building Block based Service data exchange interoperability model using Information Mediator BB</p></figcaption></figure>
+<figure><img src="/assets/X-Road model.png" alt=""><figcaption><p>Building Block based Service data exchange interoperability model using Information Mediator BB</p></figcaption></figure>
 
 #### 4.5.4 Federation and Data Exchange Requirements
 
@@ -107,7 +102,7 @@ Refer to the full description of the [Information Mediator Building Block ](http
 
 In the GovStack system architecture, there are several different types of components. This chapter provides a definition of these various components as well as detailing which components are domain-generic (may be used for multiple government e-services) and which are domain-specific to a particular government service.
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-02-25 145444.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="/assets/Screenshot 2026-02-25 145444.png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Domain Dependent**
 
@@ -133,7 +128,7 @@ The following components are _not_ dependent on a specific domain. They are gene
 
 The following diagram provides an example of a GovStack implementation
 
-<figure><img src="../.gitbook/assets/GovStack Overall Architecture.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/assets/GovStack Overall Architecture.png" alt=""><figcaption></figcaption></figure>
 
 This digram shows an example of what a GovStack implementation may look like in practice. Several concepts that are important to GovStack are shown in this diagram:
 

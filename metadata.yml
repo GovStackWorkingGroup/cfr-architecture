@@ -1,0 +1,25 @@
+---
+name: GovStack Architecture
+abstract: |
+  The GovStack Architecture is a Reference Architecture that defines the structural and technical constraints and decisions that shape a system's overall design to achieve technical **interoperability**: the ability for different autonomous systems and Building Blocks to collaborate and provide an ecosystem of value.
+url: https://specs.govstack.global/architecture/
+repository: https://github.com/govStackWorkingGroup/architecture
+urn: govstack:arch:architecture
+working_group: govstack:wg:architecture
+versions:
+  - version: 1.0
+    url_suffix: /architecture/1.0
+    short_description: The initial version of the GovStack Architecture Reference Architecture.
+    release_date: 2023-11-15
+  - version: 2.0
+    url_suffix: /architecture/2.0
+    short_description: Version 2.0 of the GovStack Architecture, introducing the initiative-wide changes to the Reference Architecture, including the new Building Block classification and the updated interoperability model.
+    release_date: 2026-02-27
+  - version: 2.1
+    url_suffix: /architecture/2.1
+    short_description: Added key functionalities linking to functional requirements.
+    release_date: 2026-03-13
+  - version: 2.2
+    url_suffix: /architecture/2.2
+    short_description: Version 2.2 of the GovStack Architecture, introducing minor updates and improvements.
+    release_date: 2026-06-04

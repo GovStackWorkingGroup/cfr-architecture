@@ -1,11 +1,10 @@
 ---
+title: Functionality Design
 description: >-
   This page details materials that connect business value (such as business
   functions as well as key functionalities) to the engineering practice,
   architecture and development.
 ---
-
-# 4.2 Functionality Design
 
 Architecture defines how systems connect and operate. Functionality design defines what those systems actually do.
 

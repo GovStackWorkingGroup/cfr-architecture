@@ -1,15 +1,10 @@
 ---
+title: Interoperability Architecture
 description: >-
   This page gives general overview about GovStack Interoperability and Building
   Block architecture: what it is about and how to apply it in creation of
   digital government services.
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/dU03bcgqfvodP4msaMaL/4-interoperability-architecture
 ---
-
-# 4 Interoperability Architecture
 
 Interoperability is the ability of different organizations, systems and technologies to work together towards shared public service delivery goals.&#x20;
 
@@ -25,7 +20,7 @@ Most governments start by building systems ministry by ministry, each serving a 
 
 Interoperability Framework establishes the shared language - common rules, standards and governance - that allow systems to work together without requiring every pair of institutions to negotiate their own arrangements from scratch. It defines how data should be described so it carries the same meaning everywhere, how services should expose their capabilities so others can consume them reliably and how organizations should coordinate so that responsibilities are clear.
 
-<figure><img src="../.gitbook/assets/TOGAF for GovStack (1).png" alt="" width="375"><figcaption><p>GovStack specifications through TOGAF perspective</p></figcaption></figure>
+<figure><img src="/assets/TOGAF for GovStack (1).png" alt="" width="375"><figcaption><p>GovStack specifications through TOGAF perspective</p></figcaption></figure>
 
 **What an interoperability framework should cover?**
 
