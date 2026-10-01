@@ -1,34 +1,10 @@
 ---
-layout:
-  width: default
-  title:
-    visible: false
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
-  tags:
-    visible: true
-  actions:
-    visible: true
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/dU03bcgqfvodP4msaMaL/
+title: Introduction
 ---
 
-# GovStack Architecture
+## Abstract
 
-<figure><img src=".gitbook/assets/image (9).png" alt="" width="375"><figcaption></figcaption></figure>
-
-#### Abstract
-
-Architecture Specification defines the structural and technical constraints and decisions that shape a system's overall design to achieve technical **interoperability**: the ability for different autonomous systems and Building Blocks to collaborate and provide an ecosystem of value.&#x20;
+Architecture Specification defines the structural and technical constraints and decisions that shape a system's overall design to achieve technical **interoperability**: the ability for different autonomous systems and Building Blocks to collaborate and provide an ecosystem of value.
 
 > At its core, interoperability means that technical systems can speak and understand the same language and follow the same principles - so that the ecosystem they form is sustainable over the long term and flexible enough to change and expand as needs grow.
 
@@ -44,6 +20,6 @@ This specification has been created by an international community of experts wit
 
 _Compliance with this specification is mandatory for all projects that apply GovStack principles or aim to create compliant software solutions. This specification is also mandatory for solutions offered on GovMarket._
 
-#### Background
+## Background
 
 GovStack architecture specification has been developed in accordance to GovSpecs 2.0 Strategy, which is available here: [https://govstack.global/news/govspecs-2-0-strategy-2025-2027-a-blueprint-for-future-ready-digital-public-services/](https://govstack.global/news/govspecs-2-0-strategy-2025-2027-a-blueprint-for-future-ready-digital-public-services/)

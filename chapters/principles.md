@@ -1,13 +1,10 @@
 ---
+title: Principles
 description: >-
   Nine core principles that are followed by GovStack building block architecture
   and subsequent digital service components.
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/dU03bcgqfvodP4msaMaL/3-principles
 ---
 
-# 3 Principles
 
 ## **High-Level Government Architecture Principles and Recommendations**
 

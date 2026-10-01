@@ -1,14 +1,10 @@
 ---
+title: Common Terminology
 description: >-
   Common terminology lists both definitions for GovStack specific terminology,
   general IT terminology used in GovStack as well as a list of abbreviations in
   the end for ease of reference.
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/dU03bcgqfvodP4msaMaL/2-common-terminology
 ---
-
-# 2 Common Terminology
 
 Common Terminology is a list of terms, definitions, and classifications that apply across the entire GovStack specification ecosystem. Terms are capitalized when used in a formal or defined sense (for example, Building Block or Microservice). The same terms may also appear in lowercase without changing their meaning (for example, Microservice = microservice).
 

@@ -1,19 +1,14 @@
 ---
+title: Architecture Patterns
 description: >-
   Introduces five whole-of-government architecture patterns - from fragmented
   point-to-point to fully decentralized event-driven - and explains how they
   coexist and interoperate within a national digita
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/dU03bcgqfvodP4msaMaL/4-interoperability-architecture/4.2-architecture-patterns
 ---
-
-# 4.3 Architecture Patterns
 
 Government architecture is not a single style or pattern applied uniformly across all systems. In practice, any national digital ecosystem will contain multiple architectural patterns running side by side - legacy registries built as monoliths, sector platforms using centralized gateways and newer services designed around event-driven microservices. The goal is not to force every system into one model but to ensure that these different patterns can interoperate reliably through shared interface contracts, consistent security boundaries and common data exchange principles.
 
-<figure><img src="../.gitbook/assets/architecture comparisons (2).png" alt=""><figcaption><p>visualization of the five whole of organization architecture patterns</p></figcaption></figure>
+<figure><img src="/assets/architecture comparisons (2).png" alt=""><figcaption><p>visualization of the five whole of organization architecture patterns</p></figcaption></figure>
 
 There are five whole of government/organization architecture patterns:
 

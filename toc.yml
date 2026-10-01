@@ -1,0 +1,13 @@
+---
+introduction:
+  - introduction.md
+  - common-terminology.md
+chapters:
+  - interoperability-architecture.md
+  - interoperability-architecture/govstack-interoperability.md
+  - interoperability-architecture/functionality-design.md
+  - interoperability-architecture/architecture-patterns.md
+  - interoperability-architecture/architecture-scope.md
+  - interoperability-architecture/building-block-approach.md
+  - interoperability-architecture/specifications-scope.md
+  - specifications-use.md
